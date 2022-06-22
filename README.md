@@ -9,6 +9,6 @@ Skills: REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Some products that can bring value for other 
 - 📫 How to reach me: yanisgerst.pro@gmail.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanis-Gerst&show_icons=true)  
+
 
 
