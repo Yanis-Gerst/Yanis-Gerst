@@ -5,7 +5,7 @@ I'm a developer based in France. My goals as a developer are to solve problems a
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on My All-In-One Cook App
-- 🌱 I’m currently learning Fundamentals of UX Design 
+- 🌱 I’m currently learning how to write clean and performant code in React
 - 👯 I’m looking to collaborate on Some products that can bring value for other 
 - 📫 How to reach me: yanisgerst.pro@gmail.com 
 
