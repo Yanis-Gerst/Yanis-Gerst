@@ -8,7 +8,7 @@ Skills: REACT / NextJS / JS / HTML / CSS / MongoDb / Go / Clean Code
 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning how to properly use Database (MangoDb, MariaDb)
-- 👯 I’m looking to collaborate on Some products that can bring values to others 
+- 👯 I’m looking to collaborate on products that can bring values to others 
 - 📫 How to reach me: yanisgerst.pro@gmail.com 
 
 
