@@ -4,7 +4,7 @@ I'm a developer based in France. My goals as a developer are to solve problems a
 
 My portfolio: https://yanis-gerst.dev/
 
-Skills: REACT / NextJS / JS / HTML / CSS / MongoDb / Go 
+Skills: React / NextJS / JS / HTML / CSS / MongoDb / Go / Java
 
 - 📫 How to reach me: yanisgerst.pro@gmail.com
 - Currently developing a 3D game with BabylonJS for the Games On Web 2025 competition by CGI.
